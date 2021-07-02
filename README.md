@@ -1,6 +1,5 @@
 # 練習製作一個RWD網頁(Bootstrap4)
-
-![tindog]()
+### ✔[Live Demo](https://stoneshih225.github.io/simon-game/)
 
 ## PC size
 ![pc](https://media.giphy.com/media/MrhN9DSVxDenQMnuDB/giphy.gif)
